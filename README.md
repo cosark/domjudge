@@ -20,6 +20,11 @@ Bootstrapping from git is an advanced use case and mostly needed for
 development. Installing DOMjudge is almost never done via a `git clone`, except
 for development use cases or testing the latest code. 
 
+One-Click Deploy
+----------------
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/DOMjudge/)
+
 Documentation
 -------------
 
